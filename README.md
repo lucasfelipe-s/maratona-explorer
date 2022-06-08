@@ -1,5 +1,5 @@
 <h1 align="center">
-  Título
+  Maratona Explorer
 </h1>
 
 <p align="center">
@@ -19,11 +19,11 @@
 </p>
 
 <b><p align="center">
-  Link para acessar o projeto <a href="https://lastimperialdance.netlify.app" target="_blank"></a>
+  Link para acessar o projeto <a href="" target="_blank">Maratona Explorer</a>
 </p></b>
 
 <div align="center">
-<img src=".github/mockup.png" width="100%" />
+<img src="" width="100%" />
 </div>
 
 ## 💻 Projeto
