@@ -1,5 +1,5 @@
 <h1 align="center">
-  Maratona Explorer
+  Bola de Cristal
 </h1>
 
 <p align="center">
@@ -19,11 +19,11 @@
 </p>
 
 <b><p align="center">
-  Link para acessar o projeto <a href="" target="_blank">Maratona Explorer</a>
+  Link para acessar o projeto <a href="https://lucasfelipe-s.github.io/maratona-explorer/" target="_blank">Bola de Cristal</a>
 </p></b>
 
 <div align="center">
-<img src="" width="100%" />
+<img src="./assets/.github/maratona-explorer.png" width="100%" />
 </div>
 
 ## 💻 Projeto
