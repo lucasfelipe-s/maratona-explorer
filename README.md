@@ -27,20 +27,20 @@
 </div>
 
 ## 💻 Projeto
-
+Esse projeto foi realizado durante a Maratona Explorer da Rocketseat.
 
 Ferramentas usadas nesse projeto:
 - VSCode
 
 ## 📥 Conhecimento adquirido:
-
+Em andamento...
 
 ## 📈 Desafios que tive:
-
+Em andamento...
 
 ## 👨‍💻 Informações pessoais
 <details>
-    <summary><small>Redes do criador</small></summary>
+    <summary><small>Confira as redes do criador</small></summary>
     <section>
         <div>Linkedin: <a href="https://www.linkedin.com/in/lucas-felipe-39ab96236/" target="_blank" rel="noopener noreferrer">Lucas Felipe</a></div>
         <div>Github: <a href="https://github.com/lucasfelipe-s" target="_blank" rel="noopener noreferrer">Lucas Felipe</a></div>
