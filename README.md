@@ -27,17 +27,10 @@
 </div>
 
 ## 💻 Projeto
-Esse projeto foi realizado durante a Maratona Explorer da Rocketseat.
+Esse projeto foi realizado durante a Maratona Explorer da Rocketseat, utilizado para colocar em pratica alguns conhecimentos em JavaScript.
 
 Ferramentas usadas nesse projeto:
 - VSCode
-
-## 📥 Conhecimento adquirido:
-Em andamento...
-
-## 📈 Desafios que tive:
-Em andamento...
-
 ## 👨‍💻 Informações pessoais
 <details>
     <summary><small>Confira as redes do criador</small></summary>
